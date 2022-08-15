@@ -1,0 +1,10 @@
+name: ReportSystem
+version: '${project.version}'
+main: gay.charon.reportsystem.ReportSystem
+api-version: 1.19
+authors: [ charon ]
+description: Plugin for global reports to staff!
+website: charon.gay
+commands:
+  report:
+    description: Report specific player to staff
